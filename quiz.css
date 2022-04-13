@@ -47,12 +47,6 @@ body{
     font-size: 2rem;
 }
 
-.hud-main-text {
+.hud-text {
     text-align: center;
-}
-
-@media screen and (max-width:768px) {
-    .choice-container {
-        min-width: 40rem;
-    }
 }
